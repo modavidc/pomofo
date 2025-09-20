@@ -33,7 +33,8 @@ Construir un cliente Pomodoro personalizable que:
 3. **Speed Force ⚡** – rapidez, agilidad.  
 4. **Bebop 🌀** – reflexión, calma, improvisación.  
 5. **Séptimo Sentido 🌌** – cosmos, trascendencia, visión.  
-6. **Timba 🎶** (opcional extra) – flow, creatividad, alegría.  
+6. **Timba 🎶** (opcional extra) – flow, creatividad, alegría.
+7. **Ike 🏀** – avance, arranque explosivo, motivación Slam Dunk.
 
 ---
 
