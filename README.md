@@ -35,6 +35,7 @@ Construir un cliente Pomodoro personalizable que:
 5. **Séptimo Sentido 🌌** – cosmos, trascendencia, visión.  
 6. **Timba 🎶** (opcional extra) – flow, creatividad, alegría.
 7. **Ike 🏀** – avance, arranque explosivo, motivación Slam Dunk.
+8. **Purgatorio ** – voluntad ardiente, dolor y entrega total.
 
 ---
 
